@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/annakudravceva/Desktop/GEEKBRAINS/C#/Homeworks/1.05/1.05.csproj",
+      "projectUniqueName": "/Users/annakudravceva/Desktop/GEEKBRAINS/C#/Homeworks/Homework1.05/1.05.csproj",
       "projectName": "1.05",
-      "projectPath": "/Users/annakudravceva/Desktop/GEEKBRAINS/C#/Homeworks/1.05/1.05.csproj",
+      "projectPath": "/Users/annakudravceva/Desktop/GEEKBRAINS/C#/Homeworks/Homework1.05/1.05.csproj",
       "packagesPath": "/Users/annakudravceva/.nuget/packages/",
-      "outputPath": "/Users/annakudravceva/Desktop/GEEKBRAINS/C#/Homeworks/1.05/obj/",
+      "outputPath": "/Users/annakudravceva/Desktop/GEEKBRAINS/C#/Homeworks/Homework1.05/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/annakudravceva/.nuget/NuGet/NuGet.Config"
