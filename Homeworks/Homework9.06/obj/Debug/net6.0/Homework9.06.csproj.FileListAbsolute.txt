@@ -1,0 +1,15 @@
+/Users/annakudravceva/Desktop/GEEKBRAINS/C#/Homeworks/Homework9.06/bin/Debug/net6.0/Homework9.06
+/Users/annakudravceva/Desktop/GEEKBRAINS/C#/Homeworks/Homework9.06/bin/Debug/net6.0/Homework9.06.deps.json
+/Users/annakudravceva/Desktop/GEEKBRAINS/C#/Homeworks/Homework9.06/bin/Debug/net6.0/Homework9.06.runtimeconfig.json
+/Users/annakudravceva/Desktop/GEEKBRAINS/C#/Homeworks/Homework9.06/bin/Debug/net6.0/Homework9.06.dll
+/Users/annakudravceva/Desktop/GEEKBRAINS/C#/Homeworks/Homework9.06/bin/Debug/net6.0/Homework9.06.pdb
+/Users/annakudravceva/Desktop/GEEKBRAINS/C#/Homeworks/Homework9.06/obj/Debug/net6.0/Homework9.06.csproj.AssemblyReference.cache
+/Users/annakudravceva/Desktop/GEEKBRAINS/C#/Homeworks/Homework9.06/obj/Debug/net6.0/Homework9.06.GeneratedMSBuildEditorConfig.editorconfig
+/Users/annakudravceva/Desktop/GEEKBRAINS/C#/Homeworks/Homework9.06/obj/Debug/net6.0/Homework9.06.AssemblyInfoInputs.cache
+/Users/annakudravceva/Desktop/GEEKBRAINS/C#/Homeworks/Homework9.06/obj/Debug/net6.0/Homework9.06.AssemblyInfo.cs
+/Users/annakudravceva/Desktop/GEEKBRAINS/C#/Homeworks/Homework9.06/obj/Debug/net6.0/Homework9.06.csproj.CoreCompileInputs.cache
+/Users/annakudravceva/Desktop/GEEKBRAINS/C#/Homeworks/Homework9.06/obj/Debug/net6.0/Homework9.06.dll
+/Users/annakudravceva/Desktop/GEEKBRAINS/C#/Homeworks/Homework9.06/obj/Debug/net6.0/refint/Homework9.06.dll
+/Users/annakudravceva/Desktop/GEEKBRAINS/C#/Homeworks/Homework9.06/obj/Debug/net6.0/Homework9.06.pdb
+/Users/annakudravceva/Desktop/GEEKBRAINS/C#/Homeworks/Homework9.06/obj/Debug/net6.0/Homework9.06.genruntimeconfig.cache
+/Users/annakudravceva/Desktop/GEEKBRAINS/C#/Homeworks/Homework9.06/obj/Debug/net6.0/ref/Homework9.06.dll
